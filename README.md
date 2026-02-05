@@ -15,19 +15,20 @@ This project is designed to showcase real-world backend concepts like authentica
 ## 📸 Screenshots
 
 ### 🔐 OTP Generation & Verification
-(Add screenshot here)
+<img width="1091" height="175" alt="Screenshot 2026-02-06 001202" src="https://github.com/user-attachments/assets/16b309b8-9196-4ea2-a496-3e102f3248a1" />
+
+<img width="1099" height="310" alt="Screenshot 2026-02-06 001229" src="https://github.com/user-attachments/assets/b6e9b553-42e3-45d9-aec2-40588afba1f1" />
+
 
 ### 📦 JWT Token Response
-(Add screenshot here)
+<img width="1099" height="310" alt="Screenshot 2026-02-06 001229" src="https://github.com/user-attachments/assets/54287fdb-4a71-42db-9105-904410574b97" />
+
 
 ### ⚡ Redis Cached API Response
-(Add screenshot showing redis_cache source)
+
 
 ### 🚫 Rate Limiting Block Message
-(Add screenshot here)
-
-> 📌 Tip: Create a folder named `screenshots/` in your repo and store images there.  
-Then use:
+<img width="1687" height="188" alt="image" src="https://github.com/user-attachments/assets/3980e1e1-e94c-432d-92f1-6f044f81106d" />
 
 
 ---

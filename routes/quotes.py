@@ -25,7 +25,7 @@ def get_quotes():
     cursor.execute("SELECT * FROM quotes")
     quotes = cursor.fetchall()
 
-    r.setex("quotes", 180, str(quotes))
+    r.setex(cache_key, 180, str(quotes))
 
     return jsonify({
         "source": "mysql_db",

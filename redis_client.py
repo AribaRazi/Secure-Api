@@ -1,11 +1,4 @@
-# import redis
-# import os
 
-# r = redis.Redis(
-#     host="localhost",
-#     port=6379,
-#     decode_responses=True
-# )
 import redis
 import os
 
